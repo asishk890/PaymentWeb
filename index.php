@@ -25,11 +25,11 @@
             <h1>Net Banking</h1>
             <div class="card" style="box-shadow: 9px 9px 20px 0px grey;">
               <div class="card-body">
-                <img src="images/netbanking.png" alt="card" style="max-width: 48vh;">
+                <img src="images/netbanking.png" alt="card" style="max-width: 48vh;" class="mt-5 mb-5">
                 <form class="row g-3">
                   <h5>Some Limited Banks are Active</h5>
                   <div class="btn-group">
-                    <button type="button" class="btn btn-secondary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                    <button type="button" class="btn btn-secondary dropdown-toggle mt-3" data-bs-toggle="dropdown" aria-expanded="false">
                       Choose your bank
                     </button>
                     <ul class="dropdown-menu dropdown-menu-end">
@@ -82,11 +82,14 @@
             <h1>UPI Payment</h1>
             <div class="card" style="box-shadow: 9px 9px 20px 0px grey;">
               <div class="card-body">
-                <img src="images/Upi-bar-code.png" alt="card" style="max-width: 100vh;" class="rounded mx-auto d-block">
-                <form class="row g-3">
-                  <div class="col-12">
+                <img src="images/Upi-bar-code.png" alt="card" style="max-width: 100vh;" class="rounded mx-auto d-block mt-5 mb-5">
+                <h5>Scan & Pay Using Any UPI App To</h5>
+                <h5>UPI ID: myupiidOdisha@uil</h5>
+                <h5>MERCHANT NAME: Adam Das</h5>
+                <form class="row g-3 mt-1">
+                  <div class="col-12 ">
                     <label for="inputAddress" class="form-label">UPI Number</label>
-                    <input type="text" class="form-control" id="inputAddress" placeholder="1234 4567 8912 2345">
+                    <input type="text" class="form-control" id="inputAddress" placeholder="myupiidOdisha@uil">
                   </div>
 
                   <div class="col-12">
