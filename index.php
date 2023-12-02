@@ -122,10 +122,10 @@
       <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
     </div>
     <div class="copyright">
-      &copy; Copyright <strong><span>Delicious</span></strong>. All Rights Reserved
+      &copy; Copyright <strong><span>Asish</span></strong>. All Rights Reserved
     </div>
     <div class="credits">
-      Designed by <a href="">BootstrapMade</a>
+      Designed by <a href="">Asish Kumar Dhall</a>
     </div>
   </div>
 </footer><!-- End Footer -->
